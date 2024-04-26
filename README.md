@@ -1,10 +1,10 @@
 ## Olá! eu sou o Daniel Porto
 
 <a href="https://github.com/daniporti/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=daniporti&theme=gruvbox_light&show_icons=true" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=daniporti&theme=gruvbox_light&show_icons=true" />
 </a>
 <a href="https://github.com/daniporti/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniporti&theme=gruvbox_light&show_icons=true&layout=compact" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniporti&theme=gruvbox_light&show_icons=true&layout=compact" />
 </a>
 
 <div style="display: inline_block"><br>
